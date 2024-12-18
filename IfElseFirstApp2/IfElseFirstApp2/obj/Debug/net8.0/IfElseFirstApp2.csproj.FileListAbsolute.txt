@@ -1,0 +1,14 @@
+C:\Users\caplo\source\repos\IfElseFirstApp2\IfElseFirstApp2\obj\Debug\net8.0\IfElseFirstApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caplo\source\repos\IfElseFirstApp2\IfElseFirstApp2\obj\Debug\net8.0\IfElseFirstApp2.AssemblyInfoInputs.cache
+C:\Users\caplo\source\repos\IfElseFirstApp2\IfElseFirstApp2\obj\Debug\net8.0\IfElseFirstApp2.AssemblyInfo.cs
+C:\Users\caplo\source\repos\IfElseFirstApp2\IfElseFirstApp2\obj\Debug\net8.0\IfElseFirstApp2.csproj.CoreCompileInputs.cache
+C:\Users\caplo\source\repos\IfElseFirstApp2\IfElseFirstApp2\bin\Debug\net8.0\IfElseFirstApp2.exe
+C:\Users\caplo\source\repos\IfElseFirstApp2\IfElseFirstApp2\bin\Debug\net8.0\IfElseFirstApp2.deps.json
+C:\Users\caplo\source\repos\IfElseFirstApp2\IfElseFirstApp2\bin\Debug\net8.0\IfElseFirstApp2.runtimeconfig.json
+C:\Users\caplo\source\repos\IfElseFirstApp2\IfElseFirstApp2\bin\Debug\net8.0\IfElseFirstApp2.dll
+C:\Users\caplo\source\repos\IfElseFirstApp2\IfElseFirstApp2\bin\Debug\net8.0\IfElseFirstApp2.pdb
+C:\Users\caplo\source\repos\IfElseFirstApp2\IfElseFirstApp2\obj\Debug\net8.0\IfElseFirstApp2.dll
+C:\Users\caplo\source\repos\IfElseFirstApp2\IfElseFirstApp2\obj\Debug\net8.0\refint\IfElseFirstApp2.dll
+C:\Users\caplo\source\repos\IfElseFirstApp2\IfElseFirstApp2\obj\Debug\net8.0\IfElseFirstApp2.pdb
+C:\Users\caplo\source\repos\IfElseFirstApp2\IfElseFirstApp2\obj\Debug\net8.0\IfElseFirstApp2.genruntimeconfig.cache
+C:\Users\caplo\source\repos\IfElseFirstApp2\IfElseFirstApp2\obj\Debug\net8.0\ref\IfElseFirstApp2.dll
